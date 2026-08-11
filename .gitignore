@@ -1,0 +1,5 @@
+venv
+.env
+__pycache__/
+kalori_bot.db
+.pytest_cache/
