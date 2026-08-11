@@ -1,0 +1,9 @@
+venv
+.env
+__pycache__/
+.git
+.gitignore
+kalori_bot.db
+.pytest_cache/
+README.md
+README.tr.md
